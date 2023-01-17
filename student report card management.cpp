@@ -1,17 +1,7 @@
-//Learnprogramo-programming made simple
-//***************************************************************
-//                   HEADER FILE USED IN PROJECT
-//****************************************************************
-
 #include<iostream>
 #include<fstream>
 #include<iomanip>
 using namespace std;
-
-
-//***************************************************************
-//                   CLASS USED IN PROJECT
-//****************************************************************
 
 class student
 {
