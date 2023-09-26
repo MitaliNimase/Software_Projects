@@ -341,7 +341,7 @@ void intro()
 	cout<<"\n\n\n\t\t  STUDENT";
 	cout<<"\n\n\t\tREPORT CARD";
 	cout<<"\n\n\t\t  PROJECT";
-	cout<<"\n\n\n\tMADE BY : LEARNPROGRAMO";
+	cout<<"\n\n\n\tMADE BY : Mitali Nimase";
 	cin.get();
 }
 
